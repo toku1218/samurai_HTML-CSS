@@ -1,0 +1,11 @@
+@media screen and (max-width:480px) {
+   .media-sp {
+      background-color: red;
+   } 
+}
+
+@media screen and (min-width:640px) {
+   .media-pc {
+      background-color: green; 
+   } 
+}
